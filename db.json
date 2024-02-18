@@ -1,5 +1,28 @@
 {
-  "users":[],
+  "users":[
+    {
+      "id": 1,
+      "email": "elisa.zhan@free.fr",
+      "firstname": "Elisa",
+      "lastname": "Zhan",
+      "age": 27
+    },
+    {
+      "id": 2,
+      "email": "Jeanne.Pilon@free.fr",
+      "firstname": "Jeanne",
+      "lastname": "Pilon",
+      "age": 27
+    }
+
+
+  ],
+  "login":{
+    "token_JWT": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwidXNlcm5hbWUiOiJFbGlzYSBaaGFuIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlcyI6WyJST0xFX1VTRVIiXSwidXNlcklkIjoxfQ.A83lJ0ofH8EoviV11NZwOL3ttN_J817nKaxUBKNvbd8"
+  },
+  "register":{
+    "token_JWT": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwidXNlcm5hbWUiOiJFbGlzYSBaaGFuIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlcyI6WyJST0xFX1VTRVIiXSwidXNlcklkIjoxfQ.A83lJ0ofH8EoviV11NZwOL3ttN_J817nKaxUBKNvbd8"
+  },
   "products": [
     {
       "id": 1,
