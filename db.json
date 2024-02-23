@@ -34,7 +34,12 @@
       "categories": ["category1", "category2"],
       "notes": 2.5,
       "createdAt": "2024-02-16",
-      "images": ["image1.jpg", "image2.jpg", "image3.jpg"],
+      "images": [
+        "https://images.beautybay.com/eoaaqxyywn6o/THEO0003F_1.jpg_s3.lmb_40ht7r/71039e90fe8b62e0ec970a783421afeb/THEO0003F_1.jpg", 
+        "https://sf1.bibamagazine.fr/wp-content/uploads/biba/2019/07/coup-coeur-pour-the-ordinary-marque-soin-experte-petit-prix-1140x623.jpgg", 
+        "https://media1.popsugar-assets.com/files/thumbor/mDLDrgx-NDqR8c5XHUD9p47uxxs=/0x367:6720x3727/fit-in/6720x4480/top/filters:format_auto():quality(85):upscale()/2023/03/20/778/n/1922153/7abe219764189abe02b4b6.45728933_.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tWvLDW2b21sjb1nIA-QbmFc49RJsHzWBUGFWFyqZ3q7XMW0427eBkjcAW9Xi4NWoIMwOHBoQxKIxjmXS4VVzoxXDp8oJamPLxYsaJKZjv_Vbt57F6pIj8qcX3jInvqUSMMH93GgQ7TV0nB26AYhSbDN9YAo47VR6Ejwkz7535w9qRzFTye-OUk2x2g/s2304/mario-badescu-soins-visage-naturels-3.jpg"
+      ],
       "price": 19.99
     },
     {
@@ -47,7 +52,12 @@
       "categories": ["category2", "category3"],
       "notes": 4.5,
       "createdAt": "2024-02-17",
-      "images": ["image4.jpg", "image5.jpg", "image6.jpg"],
+      "images": [
+        "https://images.beautybay.com/eoaaqxyywn6o/THEO0003F_1.jpg_s3.lmb_40ht7r/71039e90fe8b62e0ec970a783421afeb/THEO0003F_1.jpg", 
+        "https://sf1.bibamagazine.fr/wp-content/uploads/biba/2019/07/coup-coeur-pour-the-ordinary-marque-soin-experte-petit-prix-1140x623.jpgg", 
+        "https://media1.popsugar-assets.com/files/thumbor/mDLDrgx-NDqR8c5XHUD9p47uxxs=/0x367:6720x3727/fit-in/6720x4480/top/filters:format_auto():quality(85):upscale()/2023/03/20/778/n/1922153/7abe219764189abe02b4b6.45728933_.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tWvLDW2b21sjb1nIA-QbmFc49RJsHzWBUGFWFyqZ3q7XMW0427eBkjcAW9Xi4NWoIMwOHBoQxKIxjmXS4VVzoxXDp8oJamPLxYsaJKZjv_Vbt57F6pIj8qcX3jInvqUSMMH93GgQ7TV0nB26AYhSbDN9YAo47VR6Ejwkz7535w9qRzFTye-OUk2x2g/s2304/mario-badescu-soins-visage-naturels-3.jpg"
+      ],
       "price": 29.99
     },
     {
@@ -60,8 +70,12 @@
       "categories": ["category1", "category3"],
       "notes": 3,
       "createdAt": "2024-02-18",
-      "images": ["image7.jpg", "image8.jpg", "image9.jpg"],
-      "price": 39.99
+      "images": [
+        "https://images.beautybay.com/eoaaqxyywn6o/THEO0003F_1.jpg_s3.lmb_40ht7r/71039e90fe8b62e0ec970a783421afeb/THEO0003F_1.jpg", 
+        "https://sf1.bibamagazine.fr/wp-content/uploads/biba/2019/07/coup-coeur-pour-the-ordinary-marque-soin-experte-petit-prix-1140x623.jpgg", 
+        "https://media1.popsugar-assets.com/files/thumbor/mDLDrgx-NDqR8c5XHUD9p47uxxs=/0x367:6720x3727/fit-in/6720x4480/top/filters:format_auto():quality(85):upscale()/2023/03/20/778/n/1922153/7abe219764189abe02b4b6.45728933_.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tWvLDW2b21sjb1nIA-QbmFc49RJsHzWBUGFWFyqZ3q7XMW0427eBkjcAW9Xi4NWoIMwOHBoQxKIxjmXS4VVzoxXDp8oJamPLxYsaJKZjv_Vbt57F6pIj8qcX3jInvqUSMMH93GgQ7TV0nB26AYhSbDN9YAo47VR6Ejwkz7535w9qRzFTye-OUk2x2g/s2304/mario-badescu-soins-visage-naturels-3.jpg"
+      ],      "price": 39.99
     },
     {
       "id": 4,
@@ -73,8 +87,12 @@
       "categories": ["category1", "category3"],
       "notes": 2,
       "createdAt": "2024-02-18",
-      "images": ["image7.jpg", "image8.jpg", "image9.jpg"],
-      "price": 39.99
+      "images": [
+        "https://images.beautybay.com/eoaaqxyywn6o/THEO0003F_1.jpg_s3.lmb_40ht7r/71039e90fe8b62e0ec970a783421afeb/THEO0003F_1.jpg", 
+        "https://sf1.bibamagazine.fr/wp-content/uploads/biba/2019/07/coup-coeur-pour-the-ordinary-marque-soin-experte-petit-prix-1140x623.jpgg", 
+        "https://media1.popsugar-assets.com/files/thumbor/mDLDrgx-NDqR8c5XHUD9p47uxxs=/0x367:6720x3727/fit-in/6720x4480/top/filters:format_auto():quality(85):upscale()/2023/03/20/778/n/1922153/7abe219764189abe02b4b6.45728933_.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tWvLDW2b21sjb1nIA-QbmFc49RJsHzWBUGFWFyqZ3q7XMW0427eBkjcAW9Xi4NWoIMwOHBoQxKIxjmXS4VVzoxXDp8oJamPLxYsaJKZjv_Vbt57F6pIj8qcX3jInvqUSMMH93GgQ7TV0nB26AYhSbDN9YAo47VR6Ejwkz7535w9qRzFTye-OUk2x2g/s2304/mario-badescu-soins-visage-naturels-3.jpg"
+      ],      "price": 39.99
     },
     {
       "id": 5,
@@ -86,7 +104,12 @@
       "categories": ["category1", "category3"],
       "notes": 3,
       "createdAt": "2024-02-18",
-      "images": ["image7.jpg", "image8.jpg", "image9.jpg"],
+      "images": [
+        "https://images.beautybay.com/eoaaqxyywn6o/THEO0003F_1.jpg_s3.lmb_40ht7r/71039e90fe8b62e0ec970a783421afeb/THEO0003F_1.jpg", 
+        "https://sf1.bibamagazine.fr/wp-content/uploads/biba/2019/07/coup-coeur-pour-the-ordinary-marque-soin-experte-petit-prix-1140x623.jpgg", 
+        "https://media1.popsugar-assets.com/files/thumbor/mDLDrgx-NDqR8c5XHUD9p47uxxs=/0x367:6720x3727/fit-in/6720x4480/top/filters:format_auto():quality(85):upscale()/2023/03/20/778/n/1922153/7abe219764189abe02b4b6.45728933_.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tWvLDW2b21sjb1nIA-QbmFc49RJsHzWBUGFWFyqZ3q7XMW0427eBkjcAW9Xi4NWoIMwOHBoQxKIxjmXS4VVzoxXDp8oJamPLxYsaJKZjv_Vbt57F6pIj8qcX3jInvqUSMMH93GgQ7TV0nB26AYhSbDN9YAo47VR6Ejwkz7535w9qRzFTye-OUk2x2g/s2304/mario-badescu-soins-visage-naturels-3.jpg"
+      ],     
       "price": 39.99
     },
     {
@@ -99,51 +122,12 @@
       "categories": ["category1", "category3"],
       "notes": 3.5,
       "createdAt": "2024-02-18",
-      "images": ["image7.jpg", "image8.jpg", "image9.jpg"],
-      "price": 39.99
-    },
-    {
-      "products": [
-        {
-          "id": 7,
-          "name": "Product 7",
-          "descriptionLong": "This is a long description for Product 7. It provides detailed information about the product.",
-          "descriptionShort": "Short description for Product 7.",
-          "quantity": 20,
-          "tags": ["tag3", "tag5", "tag6"],
-          "categories": ["category2", "category3"],
-          "notes": 4.2,
-          "createdAt": "2024-02-19",
-          "images": ["image10.jpg", "image11.jpg", "image12.jpg"],
-          "price": 49.99
-        },
-        {
-          "id": 8,
-          "name": "Product 8",
-          "descriptionLong": "This is a long description for Product 8. It provides detailed information about the product.",
-          "descriptionShort": "Short description for Product 8.",
-          "quantity": 25,
-          "tags": ["tag1", "tag4", "tag7"],
-          "categories": ["category1", "category4"],
-          "notes": 3.8,
-          "createdAt": "2024-02-20",
-          "images": ["image13.jpg", "image14.jpg", "image15.jpg"],
-          "price": 59.99
-        },
-        {
-          "id": 9,
-          "name": "Product 9",
-          "descriptionLong": "This is a long description for Product 9. It provides detailed information about the product.",
-          "descriptionShort": "Short description for Product 9.",
-          "quantity": 15,
-          "tags": ["tag2", "tag4", "tag8"],
-          "categories": ["category2", "category3"],
-          "notes": 4.0,
-          "createdAt": "2024-02-21",
-          "images": ["image16.jpg", "image17.jpg", "image18.jpg"],
-          "price": 69.99
-        }
-      ]
+      "images": [
+        "https://images.beautybay.com/eoaaqxyywn6o/THEO0003F_1.jpg_s3.lmb_40ht7r/71039e90fe8b62e0ec970a783421afeb/THEO0003F_1.jpg", 
+        "https://sf1.bibamagazine.fr/wp-content/uploads/biba/2019/07/coup-coeur-pour-the-ordinary-marque-soin-experte-petit-prix-1140x623.jpgg", 
+        "https://media1.popsugar-assets.com/files/thumbor/mDLDrgx-NDqR8c5XHUD9p47uxxs=/0x367:6720x3727/fit-in/6720x4480/top/filters:format_auto():quality(85):upscale()/2023/03/20/778/n/1922153/7abe219764189abe02b4b6.45728933_.jpg",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7tWvLDW2b21sjb1nIA-QbmFc49RJsHzWBUGFWFyqZ3q7XMW0427eBkjcAW9Xi4NWoIMwOHBoQxKIxjmXS4VVzoxXDp8oJamPLxYsaJKZjv_Vbt57F6pIj8qcX3jInvqUSMMH93GgQ7TV0nB26AYhSbDN9YAo47VR6Ejwkz7535w9qRzFTye-OUk2x2g/s2304/mario-badescu-soins-visage-naturels-3.jpg"
+      ],      "price": 39.99
     }
   ],
   "categories": [
