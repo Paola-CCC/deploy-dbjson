@@ -550,24 +550,8 @@
       "images": [],
       "price": 28,
       "id": 13
-    },
+    },    
     {
-      "brandName": "RARE BEAUTY",
-      "name": "Warm Wishes Effortless Bronzer Stick - Crème Bronzante",
-      "descriptionShort": "Crème Bronzante",
-      "descriptionLong": "Un stick bronzant révolutionnaire qui crée instantanément un éclat hâlé et fond à l'application pour un fini seconde peau. Appliquez, estompez et le tour est joué !. Ce stick crème-liquide bronzant innovant fond sur la peau pour un effet hâlé convaincant qui ne s'estompe pas.",
-      "imgSrc": "https://www.sephora.fr/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dwbb05f0af/images/hi-res/SKU/SKU_2975/577240_swatch.jpg",
-      "quantity": 30,
-      "tags": [],
-      "categories": [
-        "make-up"
-      ],
-      "notes": 4.5,
-      "createdAt": "2024-02-16",
-      "images": [],
-      "price": 31,
-      "id": 14
-    },    {
       "brandName": "FENTY SKIN",
       "name": "Cherry Dub - Nettoyant Exfoliant Quotidien Pour Le Visage",
       "descriptionShort": "Nettoyant Exfoliant Visage",
